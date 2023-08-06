@@ -30,45 +30,45 @@ users can add food items to the cart and pay the amount. The admin can update th
 ![initsignup](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/e7a68f09-09b2-481f-a673-15f3dd91a0e3)
 
 ### OTP Verification
-<img src="./screenshots/otp.png"/>
+![otp](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/a456a90d-6192-4497-bfb2-f54eb88f1b7c)
 
 ### Sample Mail Format
-<img src="./screenshots/email.png"/>
+![email](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/9bc159e5-5699-4a46-8d81-a3364f34371b)
 
 ### Store Signin
-<img src="./screenshots/storesignin.png"/>
+![storesignin](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/7808ccd8-f160-4387-b130-f2f825d75fea)
 
 ### User Signin
-<img src="./screenshots/usersignin.png"/>
+![usersignin](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/e10c854e-6627-4f2e-a253-92541a3541c3)
 
 ### User Items 
-<img src="./screenshots/items.png"/>
+![items](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/fe5d7143-232f-4468-96ae-52d52cd4d19f)
 
 ### User Items with checkout
-<img src="./screenshots/itemswithcheckout.png"/>
+![itemswithcheckout](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/67a9e064-a394-47d1-a616-06f54c03870c)
 
 ### User Cart 
-<img src="./screenshots/cart.png"/>
+![cart](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/ddd06363-78f2-4513-8bed-c5974d666926)
 
 ### User Orders
-<img src="./screenshots/ordersHistory.png"/>
+![orders](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/88606391-7e2a-4738-877c-f7238467712d)
 
 ### Store Items 
-<img src="./screenshots/storeitems.png"/>
+![storeitems](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/30f99689-1054-4fbf-bf06-a2acb1c2a053)
 
 ### Store Add Category 
-<img src="./screenshots/category.png"/>
+![category](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/6bc1fb3b-2222-430e-8971-3b960ae32485)
 
 ### Store Add item 
-<img src="./screenshots/additem.png"/>
+![additem](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/08e3d22e-aecb-4a24-a79c-f046eff430d0)
 
 ### Store Update item 
-<img src="./screenshots/updateitem.png"/>
+![updateitem](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/7b8bd497-f8a4-4c41-813f-e751696933ad)
 
 ### Store Delete item 
-<img src="./screenshots/deleteitem.png"/>
+![deleteitem](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/9b1eb51a-108b-4750-aad0-d412dad32679)
 
 ### Store Orders 
-<img src="./screenshots/orders.png"/>
+![orders](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/8c30bcfc-8f44-4655-8e8d-d0a7dd69c146)
 
 #
