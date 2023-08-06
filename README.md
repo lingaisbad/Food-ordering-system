@@ -26,7 +26,8 @@ users can add food items to the cart and pay the amount. The admin can update th
 
 ## Screenshots
 ### Signup
-<img src="./food-ordering-system/screenshots/initsignup.png"/>
+
+![initsignup](https://github.com/lingaisbad/Food-ordering-system/assets/97876318/e7a68f09-09b2-481f-a673-15f3dd91a0e3)
 
 ### OTP Verification
 <img src="./screenshots/otp.png"/>
