@@ -1,0 +1,62 @@
+.header{
+    width: 100%;
+    top: 0px;
+    position:sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    z-index: 100;
+    background-color: rgb(127, 127, 222);
+}
+.navbar{
+    background-color: rgb(127, 127, 222);
+}
+.store-name{
+    color:white;
+}
+.card-body{
+    padding: 0px;
+}
+.btn-options{
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 10px;
+}
+.add-btn{
+    padding: 10px;
+}
+.card{
+    width: 18rem;
+    padding: 10px;
+}
+.filters-container{
+    width: 100%;
+    top: 0px;
+    position:sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+    /* box-shadow: -3px -2px 7px #ffffffb2,
+    3px 3px 1px rgba(94, 104, 121, 0.945); */
+}
+#search-btn{
+    min-width:100px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.select-category{
+    border-radius: 5px;
+    min-width: 100px;
+    padding: 5px;
+}
+
+.items-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* padding: 10px; */
+    gap: 10px;
+}
