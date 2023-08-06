@@ -28,7 +28,7 @@ users can add food items to the cart and pay the amount. The admin can update th
 
 ## Screenshots
 ### Signup
-<img src="./screenshots/initsignup.png"/>
+<img src="../screenshots/initsignup.png"/>
 
 ### OTP Verification
 <img src="./screenshots/otp.png"/>
