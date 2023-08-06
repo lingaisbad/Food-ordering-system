@@ -2,8 +2,6 @@
 users can add food items to the cart and pay the amount. The admin can update the food items and their prices according to the demand
 
 
-# Food order service
-
 ## Backend Setup
 1. Run below command to install dependencies
 
@@ -28,7 +26,7 @@ users can add food items to the cart and pay the amount. The admin can update th
 
 ## Screenshots
 ### Signup
-<img src="../screenshots/initsignup.png"/>
+<img src="./food-ordering-system/screenshots/initsignup.png"/>
 
 ### OTP Verification
 <img src="./screenshots/otp.png"/>
